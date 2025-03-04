@@ -1,0 +1,12 @@
+form 
+
+{ 
+background-colour: #F0F8FF; 
+width: 300px;
+h2: {color: tomato; font-weight: bold;}
+  h3:{colour: indianred;}
+  label { font-size: yellow; font-weight:20px;}
+  input { background-color: yellow ;}
+  textarea {background-color: ivory;}
+
+}
